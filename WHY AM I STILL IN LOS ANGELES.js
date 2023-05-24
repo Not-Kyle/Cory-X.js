@@ -1,5 +1,5 @@
 var namelol = "Shadow! ";
-var thestring = "Cory is old lets change the name, " + namelol + "Thats better, lol! ";
+var thestring = "Cory is old lets change the name, " + namelol + "Thats better, lol! ";  //this is not my new name lol, cory is legendary
 
 const nextlinetext = "WHY\nAM\nI\nSTILL\nIN\nLA"; //yooo im skidding!!
 console.log(nextlinetext)
