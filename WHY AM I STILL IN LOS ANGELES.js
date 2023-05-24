@@ -28,5 +28,18 @@ console.log(thestring);
 var songstring = "1st. " + firstsong + "\n 2nd. " + secondsong + "\n 3rd. " + thirdsong + "\n 4th. " + fourthsong + "\n 5th. " + fifthsong + "\n 6th. " + sixthsong + "\n 7th. " + seventhsong + "\n 8th. " + eighthsong + "";
 console.log(songstring)
 
+let histring = "1st. YEAH RIGHT"
+histring += "\n 2nd. WANTED U"
+histring += "\n 3rd. Sanctuary"
+histring += "\n 4th. TEST DRIVE"
+histring += "\n 5th. WHY AM I STILL IN LA"
+histring += "\n 6th. I don't wanna waste my time"
+histring += "\n 7th. worldstar money (interlude)"
+histring += "\n 8th. YUKON (INTERLUDE)"
+
+console.log(histring);
+
+//yeah man idk, thats what im listening too right now
+
 
 
