@@ -4,7 +4,7 @@ console.log(nextlinetext)
 const teststring = 'Big\n\tFat\n\t\tNut';
 console.log(teststring);
 
-const nextlinetext3 = "IM\nOF\nLOS\nANGELES";
+const nextlinetext3 = "IM\nTIRED\nOF\nLOS\nANGELES";
 console.log(nextlinetext3)
 
 const nextlinetext2 = "WHY\nAM\nI\nSTILL\nIN\nLA";
