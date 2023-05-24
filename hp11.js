@@ -1,2 +1,2 @@
-get/Http/1.1
+get/Http/2
 const request = new XMLHttpRequest();
