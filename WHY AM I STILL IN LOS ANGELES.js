@@ -41,5 +41,11 @@ console.log(histring);
 
 //yeah man idk, thats what im listening too right now
 
+let yeah = 0;
+const yea = "YEAH RIGHT"
+
+yeah = yea.length
+
+console.log(yeah)
 
 
