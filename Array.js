@@ -8,3 +8,7 @@ array2[1] = 45;
 array2[2] = 40;
 
 console.log(array2);
+
+let amd = 80 * 0.5;
+console.log(amd)  //mb, was researching AMD Stocks
+
