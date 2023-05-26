@@ -1,3 +1,5 @@
+const arrayZero = [42, 40, 45];
+
 var array1 = [42, 45, 40];
 console.log(array1);
 
@@ -24,6 +26,8 @@ arr3[6] = "Lua";
 
 console.log(arr3);
 
+arrayZero.push(47);
+
 const array = [
     [1, 2, 3],
     [4, 5, 6],
@@ -37,3 +41,5 @@ const twoArray = array[4][2];
 const threeArray = array[4][0][1];
 
 console.log(threeArray);
+
+console.log(arrayZero)
