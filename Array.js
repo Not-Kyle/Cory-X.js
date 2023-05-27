@@ -43,3 +43,16 @@ const threeArray = array[4][0][1];
 console.log(threeArray);
 
 console.log(arrayZero)
+
+
+const array46 = ["I'mma", "Gonna", "Blouw"];
+
+const arrayremove46 = array46.shift();
+
+console.log(arrayremove46);
+
+const array45 = ["I'm", "Gonna", "Blouw"];
+
+const arrayremove45 = array45.pop();
+
+console.log(arrayremove45); 
