@@ -17,6 +17,10 @@ console.log(teststring);
 const nextlinetext3 = "IM\nTIRED\nOF\nLOS\nANGELES";
 console.log(nextlinetext3)
 
+function mcLarenP1() {
+    console.log("My favorite car is a McLaren P1.")
+}
+
 const nextlinetext2 = "WHY\nAM\nI\nSTILL\nIN\nLA";
 console.log(nextlinetext2)
 
@@ -27,6 +31,8 @@ console.log(thestring);
 
 var songstring = "1st. " + firstsong + "\n 2nd. " + secondsong + "\n 3rd. " + thirdsong + "\n 4th. " + fourthsong + "\n 5th. " + fifthsong + "\n 6th. " + sixthsong + "\n 7th. " + seventhsong + "\n 8th. " + eighthsong + "";
 console.log(songstring)
+
+mcLarenP1();
 
 let histring = "1st. YEAH RIGHT"
 histring += "\n 2nd. WANTED U"
@@ -48,4 +54,5 @@ yeah = yea.length
 
 console.log(yeah)
 
+mcLarenP1();
 
